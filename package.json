@@ -1,0 +1,17 @@
+{
+  "name": "task-handoff-normalizer",
+  "version": "0.0.0",
+  "description": "Normalize task handoffs with owner, context, acceptance and due date.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edilec/task-handoff-normalizer"
+  }
+}
