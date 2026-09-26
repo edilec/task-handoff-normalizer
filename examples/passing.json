@@ -1,0 +1,7 @@
+{
+  "schemaVersion": "1",
+  "tasks": [
+    { "source": "board-v1", "assignee": "team-a", "title": "Ship sample", "references": ["doc-1"], "completionCriteria": ["Check output"], "dueAt": "2026-01-05T10:30:00+05:30", "status": "In Progress" },
+    { "source": "queue-v1", "owner": "team-b", "objective": "Review sample", "contextRefs": ["doc-2"], "acceptance": ["Approve result"], "deadline": "2026-01-05T06:00:00Z", "state": "todo" }
+  ]
+}

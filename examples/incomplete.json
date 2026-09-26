@@ -1,0 +1,6 @@
+{
+  "schemaVersion": "1",
+  "tasks": [
+    { "source": "queue-v1", "owner": "", "objective": "Review sample", "contextRefs": ["doc-2"], "acceptance": [], "deadline": "2026-01-05T06:00:00Z", "state": "todo" }
+  ]
+}
